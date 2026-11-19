@@ -1,0 +1,12 @@
+{
+  "name": "renal-pharmacology-simulator",
+  "version": "1.0.0",
+  "description": "Interactive simulator of the drugs that act on the kidney: diuretics along the nephron, hormone axes, glomerular haemodynamics, nephroprotection, electrolytes, urate and stones (ES/EN). Teaching tool.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "author": "Feras Elhissi"
+}
